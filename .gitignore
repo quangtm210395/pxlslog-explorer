@@ -6,3 +6,7 @@
 /.vscode
 Cargo.lock
 *.sh
+dist
+node_modules
+*.csv
+*.log
